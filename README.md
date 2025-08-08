@@ -20,9 +20,3 @@ Concepts Practiced
 - Use of const parameters and references
 - Searching and range counting logic
 - Output formatting using <iomanip>
-
-## 🛠️ How to Compile and Run
-
-1. Save the code as grades.cpp
-2. Open a terminal and compile:
-
